@@ -62,14 +62,14 @@ O sistema não depende de frases completas pré-definidas. Em vez disso, ele ana
 
 **EN:**
 
-* Arduino (C++ language)
+* Arduino (C++/ Arduino framework)
 * SoftwareSerial library
 * Bluetooth module
 * Arduino IDE
 
 **PT:**
 
-* Arduino (linguagem C++)
+* Arduino (C++/ Arduino framework)
 * Biblioteca SoftwareSerial
 * Módulo Bluetooth
 * Arduino IDE
