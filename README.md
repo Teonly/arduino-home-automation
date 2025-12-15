@@ -62,14 +62,14 @@ O sistema não depende de frases completas pré-definidas. Em vez disso, ele ana
 
 **EN:**
 
-* Arduino (Clike language)
+* Arduino (C++ language)
 * SoftwareSerial library
 * Bluetooth module
 * Arduino IDE
 
 **PT:**
 
-* Arduino (linguagem Clike)
+* Arduino (linguagem C++)
 * Biblioteca SoftwareSerial
 * Módulo Bluetooth
 * Arduino IDE
