@@ -90,14 +90,14 @@ O projeto está funcionalmente completo dentro do seu escopo atual. O código fo
 
 **EN:**
 
-* Use of the `String` class in an embedded environment
+* Use of the String class in an embedded environment
 * Simple keyword-based parsing
 * Substring matching may cause ambiguity between similar commands (e.g. "ligar" and "desligar")
 * No explicit command termination validation
 
 **PT:**
 
-* Uso da classe `String` em ambiente embarcado
+* Uso da classe String em ambiente embarcado
 * Análise baseada em palavras-chave simples
 * Correspondência por substrings pode gerar ambiguidade entre comandos semelhantes (ex: "ligar" e "desligar")
 * Ausência de validação explícita de fim de comando
